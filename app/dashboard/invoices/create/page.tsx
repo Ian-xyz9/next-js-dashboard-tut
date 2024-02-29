@@ -21,5 +21,3 @@ export default async function Page() {
     </main>
   );
 }
-
-//Adding something 
